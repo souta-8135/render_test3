@@ -13,7 +13,7 @@ Django==3.2.21
 et-xmlfile==1.1.0
 fastapi==0.103.2
 filelock==3.12.2
-Flask==2.3.2
+Flask==2.2.5
 Flask-MySQLdb==1.0.1
 Flask-SQLAlchemy==3.0.5
 fonttools==4.42.0
