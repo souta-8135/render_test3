@@ -9,7 +9,7 @@ click==8.1.6
 colorama==0.4.6
 contourpy==1.0.6
 cycler==0.11.0
-Django==4.2.5
+Django==3.2.21
 et-xmlfile==1.1.0
 fastapi==0.103.2
 filelock==3.12.4
