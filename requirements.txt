@@ -12,7 +12,7 @@ cycler==0.11.0
 Django==3.2.21
 et-xmlfile==1.1.0
 fastapi==0.103.2
-filelock==3.12.4
+filelock==3.12.2
 Flask==2.3.2
 Flask-MySQLdb==1.0.1
 Flask-SQLAlchemy==3.0.5
