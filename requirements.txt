@@ -16,7 +16,7 @@ filelock==3.12.2
 Flask==2.2.5
 Flask-MySQLdb==1.0.1
 Flask-SQLAlchemy==3.0.5
-fonttools==4.42.0
+fonttools==4.38.0
 greenlet==2.0.2
 h11==0.14.0
 httptools==0.6.0
